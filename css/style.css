@@ -447,11 +447,7 @@ header {
     visibility: hidden;
 }
 
-<<<<<<< HEAD
-@media(max-width:600px) {
-=======
 @media(max-width:600px){
->>>>>>> e8b10e6e40086274d95ad16bbdaee19340ea75cf
     .about-me__img {
         width: 0;
     }
@@ -639,8 +635,6 @@ header {
     align-items: center;
 }
 
-<<<<<<< HEAD
-=======
 .footer--links{
     display: flex;
     flex-direction: column;
@@ -648,7 +642,6 @@ header {
     align-items: center;
 }
 
->>>>>>> e8b10e6e40086274d95ad16bbdaee19340ea75cf
 .footer__link--item {
     text-decoration: none;
     color: var(--clr-light);
