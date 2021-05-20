@@ -1,4 +1,4 @@
-if(window.innerWidh<=600px){
+if (window.innerWidth <=600) {
 ScrollReveal().reveal('section', {
     interval: 30,
     reset: false
