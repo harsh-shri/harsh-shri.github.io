@@ -1,3 +1,4 @@
+if(window.innerWidh<=600px){
 ScrollReveal().reveal('section', {
     interval: 30,
     reset: false
@@ -10,7 +11,7 @@ ScrollReveal().reveal('footer', {
     interval: 20,
     reset: false
 });
-
+}
 const navToggle = document.querySelector('.nav-toggle');
 const navLink = document.querySelectorAll('.nav__link');
 
