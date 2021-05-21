@@ -11,7 +11,7 @@ ScrollReveal().reveal('footer', {
     interval: 20,
     reset: false
 });
-}
+};
 const navToggle = document.querySelector('.nav-toggle');
 const navLink = document.querySelectorAll('.nav__link');
 
