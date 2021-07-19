@@ -13,7 +13,7 @@ navLink.forEach(link => {
 
 let currentSlide = 0;
 function moveslide(direction) {
-    currentSlide = modulo(currentSlide + direction, 7);
+    currentSlide = modulo(currentSlide + direction, 8);
 
     const image = document.querySelectorAll('.image');
     image.forEach(images => images.style.display = "none");
